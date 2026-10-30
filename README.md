@@ -1,47 +1,85 @@
-# <div align="center">
+<div align="center">
 
-<img src="screenshots/hero.png" alt="CrumbleCookies by Tim" width="100%">
+<img src="screenshots/hero.png" alt="CrumbleCookies by Tim website hero" width="100%">
 
 # CrumbleCookies by Tim
 
 **Made for your midnight cravings.**
 
-A dark, dreamy website concept for a small batch cookie bakery, with a menu, ordering steps and Instagram and email contact.
+A dark, dreamy website concept for a small-batch cookie bakery, featuring a product menu, ordering guidance, and direct contact options.
 
-[Features](#features) · [Live demo](https://jfuix.github.io/CrumbleCookiesbyTim/) · [Screenshots](#screenshots) · [Run locally](#run-locally) · [Credits](#credits)
+[Overview](#about-the-project) · [Problem](#problem-it-addresses) · [Features](#key-features) · [Tech stack](#technology-stack) · [Screenshots](#screenshots) · [Live demo](#live-demo)
 
 </div>
 
 ---
 
-## Features
+## About the Project
 
-- [x] Dark midnight theme with a soft pink accent
-- [x] Custom cookie logo and favicon
-- [x] Faint cookie pattern background with whole and half eaten cookies
-- [x] Menu cards, "How to order" steps and a quote section
-- [x] Email and Instagram order buttons
-- [x] Fully responsive on desktop and mobile
-- [x] One HTML file, no build step
-- [ ] Real flavours, prices and photos (placeholders for now)
+CrumbleCookies by Tim is a bakery website concept built around a distinctive midnight-inspired visual identity. The design pairs a deep near-black and plum background with soft pink accents, custom cookie artwork, and an atmospheric cookie-pattern texture.
+
+The page introduces the bakery concept, presents menu cards, explains how to order, and gives visitors direct email and Instagram contact options.
+
+## Problem It Addresses
+
+A small food business needs more than an attractive homepage: visitors should be able to understand what is offered and how to place an order. This concept brings the menu, ordering steps, and contact routes into one focused, mobile-friendly experience.
+
+## Key Features
+
+- Dark midnight palette with soft pink accents
+- Custom cookie logo and favicon
+- Decorative cookie-pattern background artwork
+- Menu cards and ordering-step section
+- Quote / brand-story section
+- Email and Instagram contact actions
+- Responsive layouts for desktop and mobile
+- Single HTML file with no build step
+
+## Technology Stack
+
+- **HTML5** — page structure and content
+- **CSS3** — responsive layouts, custom visual styling, and decorative patterns
+- **Inline SVG** — custom favicon and vector artwork
+- **Vanilla JavaScript** — lightweight interface behavior, where applicable
 
 ## Screenshots
 
-<img src="screenshots/desktop-full.png" alt="Desktop view" width="100%">
+### Desktop
+
+<img src="screenshots/desktop-full.png" alt="CrumbleCookies by Tim desktop website" width="100%">
+
+### Mobile
 
 <p align="center">
-  <img src="screenshots/mobile-full.png" alt="Mobile view" width="300">
+  <img src="screenshots/mobile-full.png" alt="CrumbleCookies by Tim mobile website" width="320">
 </p>
 
-## Run locally
+### Ordering Section
+
+<img src="screenshots/desktop-order.png" alt="CrumbleCookies by Tim ordering section" width="100%">
+
+## Live Demo
+
+[Visit CrumbleCookies by Tim](https://jfuix.github.io/CrumbleCookiesbyTim/)
+
+## Run Locally
 
 ```bash
 git clone https://github.com/JFUIX/CrumbleCookiesbyTim.git
 cd CrumbleCookiesbyTim
 ```
 
-Open `index.html` in your browser.
+Open `index.html` in a modern browser. No build tools or package installation are required.
+
+## Project Status & Limitations
+
+**Status:** Front-end demo / portfolio concept.
+
+- Menu items, flavors, prices, and product imagery are placeholders and should be replaced with verified bakery information.
+- Email and Instagram actions are contact routes, not a full checkout system.
+- Cart management, online payment, order tracking, and inventory management are not implemented.
+- Real business contact details and ordering policies should be added before production use.
 
 ## Credits
 
-Crafted by Jaffery / [JFUIX](https://github.com/JFUIX). Demo version; menu items and ordering steps are placeholders.
+Designed and developed by [JFUIX](https://github.com/JFUIX).
